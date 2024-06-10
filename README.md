@@ -1,2 +1,2 @@
 # js-practice-whack-a-mole
-whack a mole practice from yt
+whack a mole practice from yt, deletable repo
